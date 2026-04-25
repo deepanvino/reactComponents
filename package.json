@@ -6,13 +6,16 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "engines": {
+    "node": ">=22.22.2"
+  },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^4.3.9"
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.10"
   },
   "keywords": [],
   "description": ""
